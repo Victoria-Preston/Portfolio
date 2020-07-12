@@ -8,8 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Side Hustles & Projects](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail2.jpg?raw=true"/>
+[Side Hustles & Projects](/dummy)
+<img src="images/TilesFromPolaroidDrawing.jpg?raw=true"/>
 
 ---
 [Personality Profile](http://example.com/)
