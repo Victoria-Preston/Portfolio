@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Side Hustles & Projects](/dummy)
+[Side Projects](/dummy)
 <img src="images/TilesFromPolaroidDrawing.jpg?raw=true"/>
 
 ---
