@@ -9,7 +9,7 @@
 
 ---
 [Side Projects](/dummy)
-<img src="images/TilesFromPolaroidDrawing.jpg?raw=true"/>
+<img src="images/instantPhotos.jpg?raw=true"/>
 
 ---
 [Personality Profile](http://example.com/)
